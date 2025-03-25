@@ -1,0 +1,7 @@
+requirement_id,name,prerequisites,steps,end_conditions,test_type
+1,Test Pozytywny dla wymagania,Brak,Brak,Brak,Pozytywny
+1,Test Negatywny dla wymagania,Brak,Brak,Brak,Negatywny
+1,Test Graniczny dla wymagania,Brak,Brak,Brak,Graniczny
+2,Test Pozytywny dla wymagania,Brak,Brak,Brak,Pozytywny
+2,Test Negatywny dla wymagania,Brak,Brak,Brak,Negatywny
+2,Test Graniczny dla wymagania,Brak,Brak,Brak,Graniczny
