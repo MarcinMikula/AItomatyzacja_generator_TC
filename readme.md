@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-`TestCaseGenerator` to AItomat napisany w Pythonie, który generuje przypadki testowe na podstawie wymagań, architektury aplikacji webowej (w tym przypadku CRM podobnego do Salesforce) oraz wytycznych ISTQB. Projekt ma na celu usprawnienie procesu tworzenia przypadków testowych w fazie testowania zgodnie z cyklem życia oprogramowania (SDLC) opisanym w ISTQB.
+`TestCaseGenerator` to BĘDZIE, ale jeszcze nie jest, AItomat napisany w Pythonie, który generuje przypadki testowe na podstawie wymagań, architektury aplikacji webowej (w tym przypadku CRM podobnego do Salesforce) oraz wytycznych ISTQB. Projekt ma na celu usprawnienie procesu tworzenia przypadków testowych w fazie testowania zgodnie z cyklem życia oprogramowania (SDLC) opisanym w ISTQB.
 
 ### Główne funkcjonalności:
 - Generowanie przypadków testowych na podstawie wymagań zapisanych w pliku CSV.
